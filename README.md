@@ -1,3 +1,9 @@
 # HumanGeography_F24
-Human Geography notebooks used at SBCC, Fall 2024. This includes 5 interactive assignments.
+**GEOG 102** *(Human Geography)* course notebooks used at Santa Barbara City College (SBCC), Fall 2024. This includes 5 interactive jupyter notebook assignments. 
+The notebooks follow the same format used in [**CS/MATH 118** *(Data Science for All)*](https://github.com/guebelsn/DataScienceForAll_F24), a foundation in Data Science course modeled after Data 8 at UCB.
 The contents of this repository are licensed for reuse under Creative Commons Attribution-NonCommercial 1.0 International (CC BY-NC 1.0)
+# SBCC Contributors:
+- Geordie Armstrong, Assistant Professor, Geography
+- Nathalie Guebels, Assistant Professor, Computer Science
+
+
